@@ -1,0 +1,6 @@
+      1 5.txt
+      9 sort_temp_obs.txt
+      2 temp_obs_iqaluit.txt
+      2 temp_obs_stjohns.txt
+      9 temp_obs_vancouver.txt
+     23 total
